@@ -2,6 +2,6 @@
   "name": "airbrake-js-example",
   "dependencies": {
     "airbrake-js": "^0.9.0",
-    "hapi": "^16.1.0"
+    "hapi": "^18.1.0"
   }
 }
